@@ -1,0 +1,62 @@
+{
+  "items": [
+    {
+  "@context": "https://schema.org",
+  "@type": "Quotation",
+  "@id": "1",
+  "name": "Emo Philips"
+  "description": "A computer once beat me at chess, but it was no match for me at kick boxing.",
+  "url": "https://www.brainyquote.com/quotes/emo_philips_128993"
+    },
+    {
+  "@context": "https://schema.org",
+  "@type": "Quotation",
+  "@id": "2",
+  "name": "Ted Nelson"
+  "description": "The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.",
+  "url": "https://www.brainyquote.com/quotes/ted_nelson_184205"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Quotation",
+      "id": "3",
+      "name": "Doug Larson",
+      "description": "Home computers are being called upon to perform many new functions, including the consumption of homework formerly eaten by the dog.",
+      "url": "https://www.brainyquote.com/quotes/doug_larson_104630"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Quotation",
+      "id": "4",
+      "name": "Clifford Stoll",
+      "description": "Treat your password like your toothbrush. Don't let anybody else use it, and get a new one every six months.",
+      "url": "https://www.brainyquote.com/quotes/clifford_stoll_161622?src=t_computers"
+    }
+  ],
+  "users": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "1",
+      "name": "Michael Schaffner",
+      "description": "Ouch! My cat just bit me!",
+      "itemId": "1"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "2",
+      "name": "Jennifer Schaffner",
+      "description": "This dog sure likes her walks!",
+      "itemId": "2"
+    }
+  ],
+  "collection": {
+    "@context": "https://schema.org/",
+    "@type": "Collection",
+    "name": "jenniferschaffners's API",
+    "creator": "jenniferschaffner",
+    "about": "A collection of quotes about computers",
+    "url": "https://www.jenniferschaffner.info"
+  }
+}
