@@ -3,7 +3,7 @@
     {
   "@context": "https://schema.org",
   "@type": "Quotation",
-  "@id": "1",
+  "id": "1",
   "name": "Emo Philips",
   "description": "A computer once beat me at chess, but it was no match for me at kick boxing.",
   "url": "https://www.brainyquote.com/quotes/emo_philips_128993"
@@ -11,7 +11,7 @@
     {
   "@context": "https://schema.org",
   "@type": "Quotation",
-  "@id": "2",
+  "id": "2",
   "name": "Ted Nelson",
   "description": "The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.",
   "url": "https://www.brainyquote.com/quotes/ted_nelson_184205"
